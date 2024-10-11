@@ -1,4 +1,4 @@
-# Code for "CrowdNet: A Deep Convolutional Network for Dense Crowd Counting"
+# Code for paper "CrowdNet: A Deep Convolutional Network for Dense Crowd Counting"
 
 Paper citation: Boominathan, Lokesh, Srinivas SS Kruthiventi, and R. Venkatesh Babu. "Crowdnet: A deep convolutional network for dense crowd counting." Proceedings of the 24th ACM international conference on Multimedia. 2016.
 
